@@ -1,4 +1,4 @@
-<body style="background-color:#FF0000;">
+<body style="background-color:#92d5fa;">
 </body>
 <p><a href="https://gergelyattila.github.io/ga.github.io/#" target="_blank">Főoldal</a></p>
 
