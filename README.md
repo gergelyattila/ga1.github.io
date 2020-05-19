@@ -1,3 +1,5 @@
+<body style="background-color:#FF0000;">
+</body>
 <p><a href="https://gergelyattila.github.io/ga.github.io/#" target="_blank">Főoldal</a></p>
 
 <h1>Rólam:</h1>
